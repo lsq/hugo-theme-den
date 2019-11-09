@@ -11,11 +11,11 @@ A simple theme for Hugo
 ## Installation
 
 ```bash
-$ git clone https://github.com/shaform/hugo-theme-den themes/den
+$ git clone https://github.com/lsq/hugo-theme-den themes/den
 ```
 
-**Important:** Take a look inside the [`exampleSite`](https://github.com/shaform/hugo-theme-den/tree/master/exampleSite) directory of this theme.
-You'll find a file called [`config.toml`](https://github.com/shaform/hugo-theme-den/blob/master/exampleSite/config.toml).
+**Important:** Take a look inside the [`exampleSite`](https://github.com/lsq/hugo-theme-den/tree/master/exampleSite) directory of this theme.
+You'll find a file called [`config.toml`](https://github.com/lsq/hugo-theme-den/blob/master/exampleSite/config.toml).
 **To use it, copy the [`config.toml`](https://github.com/shaform/hugo-theme-den/blob/master/exampleSite/config.toml) in the root directory of your Hugo site.**
 You can customize it for your site.
 
@@ -37,12 +37,13 @@ git pull
 
 ## License
 
-Released under the [GPLv2](https://github.com/shaform/hugo-theme-den/blob/master/LICENSE) License.
+Released under the [GPLv2](https://github.com/lsq/hugo-theme-den/blob/master/LICENSE) License.
 
 ## Acknowledgements
 
 - [Nest](https://github.com/molivier/nest)
 - [hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)
+- [hugo-theme-den](https://github.com/shaform/hugo-theme-den)
 
 ## Websites that use Den
 
